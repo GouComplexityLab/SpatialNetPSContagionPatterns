@@ -41,7 +41,7 @@ This folder includes several subfolders for different Figures in main text and S
 * FigS1AB.m Plot the illustrative small-size lattice embedded networks with delta degree distribution and its part in Fig.S1A and B.
 * FigS1CD.m Plot the illustrative small-size lattice embedded networks with Poisson degree distribution and its parts in Fig.S1C and D.
 * FigS1EF.m Plot the illustrative small-size lattice embedded networks with power-law degree distribution and its parts in Fig.S1E and F.
-* 
+
 ## FigureS2 matlab bifurcation diagram:
 * FigS2A_backward.m Plot the backward bifurcation diagram of the local model in Fig.S2A.
 * FigS2B_forward.m Plot the forward bifurcation diagram of the local model in Fig.S2B.
