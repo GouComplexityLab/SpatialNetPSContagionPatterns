@@ -64,7 +64,7 @@ This folder includes several subfolders for different Figures in main text and S
 * Seel more details in readmein.txt.
 
 
-## FigureS9 FigureS9 contagion elimination delta12:
+## FigureS9 contagion elimination delta12:
 * Calculate and plot the spinodal curves (regions) of the model (2) defined on the lattice embedded networks with delta degree distribution under the control measures, namely, isolating infectious individuals and reducing transmission rates.
 * Simulate the influence of phase-separated patterns for contagion elimination under the control measures, namely, isolating infectious individuals and reducing transmission rates, on the underlying lattice embedded networks with delta degree distribution.
 * Seel more details in readmein.txt.
